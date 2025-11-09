@@ -13,7 +13,7 @@
 
 **Структура Репозитория**
 - `Tasks/Week3/dartap.ipynb` — решение одного из заданий в ноутбуке.
-- `Tasks/Week3/ТТ3_Alzhan_Ibrayev.ipynb` — альтернативное решение/вариант.
+- `Tasks/Week3/ТТ3_Alzhan_Taurbek.ipynb` — альтернативное решение/вариант.
 - `Tasks/Week3/Salaries.csv` — пример датасета.
 - `Tasks/Week3/results_TT3.json` — сохранённые результаты/артефакты.
 
